@@ -1,0 +1,8 @@
+Parametros:
+-Mensagens anteriores incluídas: 10
+-Resposta máxima: 800
+-Temperatura: 0.3
+-Top P: 0.95
+-Parar sequência: Parar sequência 
+-Penalidade por frequência: 0
+-Penalidade por presença: 0
