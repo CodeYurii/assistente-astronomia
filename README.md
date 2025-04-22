@@ -28,6 +28,3 @@ Este modelo foi configurado no Azure OpenAI, utilizando o recurso de **Search** 
 - Azure OpenAI
 - Azure Cognitive Search
 - Indexação de documentos
-
-## Licença
-Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
